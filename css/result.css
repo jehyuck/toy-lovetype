@@ -1,0 +1,17 @@
+#result{
+    display: none;
+    background-color: whitesmoke;
+    width:80%;
+    margin:auto;
+    border-radius: 30px;
+}
+#kakao{
+    background-color: #FEE500;
+    color: whitesmoke;
+    border: 0px;
+}
+
+#kakao:hover, #kakao:focus{
+    background-color: whitesmoke;
+    color: #FEE500;
+}

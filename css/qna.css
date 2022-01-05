@@ -1,0 +1,44 @@
+#qna{
+    display: none;
+}
+
+.qBox{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+    font-size:1.5em;
+}
+
+.buttonList{
+    width:70%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    text-align: center;
+    display: block;
+    font-size: 1.2em;
+    border: 0px;
+}
+
+.status{
+    background-color: whitesmoke;
+    width: 80%;
+    border-radius: 20px;
+    height: 20px;
+}
+
+.statusBar{
+    background-color: rgb(199, 59, 82);
+    width: 80%;
+    border-radius: 20px;
+    height: 100%;
+    text-align: center;
+}
+.statusNum{
+    text-align: center;
+}
+
+.buttonList:hover{
+    background-color: pink;
+    color: whitesmoke;
+}
